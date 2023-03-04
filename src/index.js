@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './normalize.css';
+import './assets/fontText/stylesheet.css';
+import './assets/fontawesome-6.1.2/css/all.css'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

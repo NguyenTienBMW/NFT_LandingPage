@@ -1,0 +1,10 @@
+export { Header } from "./Header";
+export { Banner } from "./Banner";
+export { Partner } from "./Partner";
+export { Carousel } from "./Carousel";
+export { FlowWork } from "./FlowWork";
+export { PopularCollection } from "./PopularCollection";
+export { Categories } from "./Categories";
+export { TopCreators } from "./TopCreators";
+export { Subscribe } from "./Subscribe";
+export { Footer } from "./Footer";

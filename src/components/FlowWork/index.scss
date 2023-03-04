@@ -1,0 +1,50 @@
+.work-flow-container {
+  width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+
+  .work-flow-heading {
+    display: flex;
+    justify-content: center;
+
+    & p {
+      font-size: 40px;
+      color: #fff;
+      font-weight: 600;
+      letter-spacing: 1.5;
+    }
+  }
+
+  .work-flow-list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+    .work-flow-icon {
+      width: 70px;
+      height: 70px;
+      text-align: center;
+      line-height: 70px;
+      background-color: #372839;
+      border-radius: 50%;
+      margin-right: 40px;
+
+      & i {
+        font-size: 20px;
+        color: #fff;
+      }
+    }
+
+    .work-flow-img {
+      line-height: 80px;
+    }
+
+    .work-flow-arrow {
+      display: flex;
+    }
+
+    .work-flow-text {
+      color: #FFCE4E;
+    }
+  }
+}
